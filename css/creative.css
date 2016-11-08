@@ -283,6 +283,11 @@ header .header-content .header-content-inner p {
 .text-primary {
   color: #F05F40;
 }
+
+.text-linkedin {
+  color: #0077B5;
+}
+
 .no-gutter > [class*='col-'] {
   padding-right: 0;
   padding-left: 0;
